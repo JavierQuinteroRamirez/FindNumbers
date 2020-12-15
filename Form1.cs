@@ -17,7 +17,6 @@ namespace FindNumers
         /// <summary>
         /// Proyecto basado en Algoritmos Evolutivos para charla en Universidad Reformada 18-sep-2020
         /// Javier Quintero Ramírez 
-        /// javierquinteroramirez@gmail.com
         /// </summary>
         public Form1()
         {
